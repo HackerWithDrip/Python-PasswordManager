@@ -1,5 +1,6 @@
 # Python-PasswordManager
-Check the README file
+Note: This password manager was made as a project and is NOT intended for actual use.
+
 Objective: To develop a custom password manager using Python
 
 Domain:  Security
