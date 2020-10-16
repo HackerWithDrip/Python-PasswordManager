@@ -69,3 +69,5 @@ Security levels:
         level 1 - Alphanumeric passwords.
 
              level 2 - Alphanumeric passwords with special characters.
+![PasswordManager](https://user-images.githubusercontent.com/68540614/96206683-c241b180-0f69-11eb-8ac1-0d996a8e15b2.gif)
+
